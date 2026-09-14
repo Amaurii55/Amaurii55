@@ -1,13 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">
-  <rect width="900" height="190" rx="10" fill="#0d1117"/>
-  <rect x="0.5" y="0.5" width="899" height="189" rx="9.5" fill="none" stroke="#30363d"/>
-  <circle cx="24" cy="22" r="5" fill="#484f58"/>
-  <circle cx="42" cy="22" r="5" fill="#484f58"/>
-  <circle cx="60" cy="22" r="5" fill="#484f58"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="20">
-    <text x="28" y="72" fill="#39d353">amauri@github:~$</text>
-    <text x="228" y="72" fill="#c9d1d9">whoami</text>
-    <text x="28" y="112" fill="#f0f6fc" font-size="25" font-weight="600">Amauri Souza Santana</text>
-    <text x="28" y="150" fill="#8b949e">software_developer  /  java  /  backend  /  systems</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+  <rect width="1000" height="250" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="249" rx="11.5" fill="none" stroke="#30363d"/>
+  <path d="M12 0.5H988C994.351 0.5 999.5 5.649 999.5 12V42H0.5V12C0.5 5.649 5.649 0.5 12 0.5Z" fill="#161b22"/>
+  <line x1="0" y1="42.5" x2="1000" y2="42.5" stroke="#30363d"/>
+
+  <circle cx="24" cy="21" r="5" fill="#f85149"/>
+  <circle cx="43" cy="21" r="5" fill="#d29922"/>
+  <circle cx="62" cy="21" r="5" fill="#3fb950"/>
+  <text x="500" y="27" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">amauri@github — profile</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    <text x="28" y="82" fill="#39d353" font-size="18">amauri@github:~$</text>
+    <text x="222" y="82" fill="#c9d1d9" font-size="18">./profile</text>
+
+    <text x="28" y="122" fill="#8b949e" font-size="16">name</text>
+    <text x="155" y="122" fill="#f0f6fc" font-size="20" font-weight="600">Amauri Souza Santana</text>
+
+    <text x="28" y="156" fill="#8b949e" font-size="16">role</text>
+    <text x="155" y="156" fill="#c9d1d9" font-size="18">Software Developer</text>
+
+    <text x="28" y="190" fill="#8b949e" font-size="16">core</text>
+    <text x="155" y="190" fill="#39d353" font-size="18">Java</text>
+    <text x="205" y="190" fill="#484f58" font-size="18">/</text>
+    <text x="225" y="190" fill="#c9d1d9" font-size="18">Spring Boot</text>
+    <text x="350" y="190" fill="#484f58" font-size="18">/</text>
+    <text x="370" y="190" fill="#c9d1d9" font-size="18">SQL Server</text>
+
+    <text x="28" y="224" fill="#39d353" font-size="16">amauri@github:~$</text>
+    <rect x="222" y="210" width="9" height="17" fill="#39d353" opacity="0.85"/>
   </g>
 </svg>

@@ -20,13 +20,13 @@ Atuo principalmente com aplicações corporativas, backend, integrações, banco
 
 ```text
 backend          integrations
-banks / sql      performance
+databases / sql  performance
 code quality     enterprise systems
 ```
 
 ## `$ learning`
 
-`REST APIs` `backend architecture`
+`REST APIs`
 
 ## `$ status`
 

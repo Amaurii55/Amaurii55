@@ -6,25 +6,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=39D353&center=true&vCenter=true&width=780&height=36&lines=Java+8%E2%86%9221+%E2%80%A2+Spring+Boot+%E2%80%A2+SQL+Server+%E2%80%A2+Maven;Backend+%E2%80%A2+Integra%C3%A7%C3%B5es+%E2%80%A2+Banco+%E2%80%A2+Performance" alt="Stack e foco técnico" />
 </p>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h2><code>&gt; sobre_mim</code></h2>
-      <p>Sou <strong>Desenvolvedor de Software</strong> com foco no ecossistema <strong>Java</strong>.</p>
-      <p>Meu trabalho passa por diferentes camadas de aplicações corporativas:</p>
-      <ul>
-        <li><strong>backend e frontend</strong>;</li>
-        <li><strong>integrações e APIs</strong>;</li>
-        <li><strong>SQL Server</strong>, procedures e triggers;</li>
-        <li>rotinas automatizadas;</li>
-        <li>performance e qualidade de código.</li>
-      </ul>
-    </td>
-    <td width="42%" valign="middle" align="center">
-      <img src="./assets/code-card.svg" alt="Código representando o perfil técnico de Amauri" width="100%" />
-    </td>
-  </tr>
-</table>
+## `> sobre_mim`
+
+Sou **Desenvolvedor de Software** com foco no ecossistema **Java**.
+
+Meu trabalho passa por diferentes camadas de aplicações corporativas:
+
+- **backend e frontend**;
+- **integrações e APIs**;
+- **SQL Server**, procedures e triggers;
+- rotinas automatizadas;
+- performance e qualidade de código.
+
+<p align="center">
+  <img src="./assets/code-card.svg" alt="Código representando o perfil técnico de Amauri" width="94%" />
+</p>
 
 ## `> stack_principal`
 

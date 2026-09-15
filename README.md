@@ -65,7 +65,7 @@
       <strong><a href="https://github.com/Amaurii55/CuidaRitmo">CuidaRitmo</a></strong><br/>
       <sub>Aplicativo Android local-first para organização de rotinas, lembretes e registros de cuidado.</sub><br/><br/>
       <code>Java 17</code> · <code>Android</code> · <code>Room</code> · <code>MVVM</code> · <code>JUnit</code><br/><br/>
-      <sub>Nasceu de uma necessidade real da minha rotina familiar, inicialmente para ajudar na organização do dia a dia do meu filho autista (TEA). Sem cadastro, anúncios, analytics ou permissão de Internet.</sub>
+      <sub>Nasceu de uma necessidade real da minha rotina familiar, inicialmente para ajudar na organização do dia a dia do meu filho, que é autista. Sem cadastro, anúncios, analytics ou permissão de Internet.</sub>
     </td>
   </tr>
 </table>

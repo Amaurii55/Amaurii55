@@ -45,35 +45,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java_8%E2%80%9321-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 8-21" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <strong>Java 8–21</strong> · Spring Boot · Hibernate · Maven · SQL Server · Git · SonarQube
 </p>
 
 <p align="center">
   <code>JSF</code> · <code>JPA</code> · <code>JDBC</code> · <code>POO</code> · <code>SOLID</code> · <code>Procedures</code> · <code>Triggers</code> · <code>APIs</code>
 </p>
-
-## `> github_activity`
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amaurii55&theme=github_dark&animation=load" alt="Estatísticas do GitHub de Amauri" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=Amaurii55&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&locale=pt_BR" alt="Sequência de contribuições no GitHub" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ## `> lab`
 

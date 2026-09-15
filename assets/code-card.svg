@@ -1,57 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="280" viewBox="0 0 560 280">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0d1117"/>
       <stop offset="1" stop-color="#111820"/>
     </linearGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0 L0 0 0 30" fill="none" stroke="#1f2a34" stroke-width="0.7" opacity="0.38"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 L0 0 0 28" fill="none" stroke="#1f2a34" stroke-width="0.7" opacity="0.38"/>
     </pattern>
   </defs>
 
-  <rect width="1000" height="360" rx="14" fill="url(#bg)"/>
-  <rect width="1000" height="360" rx="14" fill="url(#grid)"/>
-  <rect x="0.75" y="0.75" width="998.5" height="358.5" rx="13.25" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <rect width="560" height="280" rx="12" fill="url(#bg)"/>
+  <rect width="560" height="280" rx="12" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="559" height="279" rx="11.5" fill="none" stroke="#30363d"/>
 
-  <rect x="1" y="1" width="998" height="46" rx="13" fill="#161b22"/>
-  <rect x="1" y="34" width="998" height="13" fill="#161b22"/>
-  <circle cx="26" cy="23" r="6" fill="#f85149"/>
-  <circle cx="48" cy="23" r="6" fill="#d29922"/>
-  <circle cx="70" cy="23" r="6" fill="#3fb950"/>
-  <text x="500" y="29" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14">profile.java</text>
+  <rect x="1" y="1" width="558" height="40" rx="11" fill="#161b22"/>
+  <rect x="1" y="29" width="558" height="12" fill="#161b22"/>
+  <circle cx="22" cy="20" r="5" fill="#f85149"/>
+  <circle cx="40" cy="20" r="5" fill="#d29922"/>
+  <circle cx="58" cy="20" r="5" fill="#3fb950"/>
+  <text x="280" y="25" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">profile.java</text>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="24">
-    <text x="38" y="92" fill="#ff7b72">public final class</text>
-    <text x="254" y="92" fill="#d2a8ff">Amauri</text>
-    <text x="342" y="92" fill="#c9d1d9">{</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="21">
+    <text x="24" y="78">
+      <tspan fill="#ff7b72">public final class </tspan><tspan fill="#d2a8ff">Amauri</tspan><tspan fill="#c9d1d9"> {</tspan>
+    </text>
 
-    <text x="76" y="142" fill="#8b949e">String</text>
-    <text x="159" y="142" fill="#79c0ff">role</text>
-    <text x="222" y="142" fill="#c9d1d9">=</text>
-    <text x="251" y="142" fill="#a5d6ff">"Software Developer"</text>
-    <text x="530" y="142" fill="#c9d1d9">;</text>
+    <text x="46" y="122">
+      <tspan fill="#8b949e">String </tspan><tspan fill="#79c0ff">role</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Software Developer"</tspan><tspan fill="#c9d1d9">;</tspan>
+    </text>
 
-    <text x="76" y="192" fill="#8b949e">String</text>
-    <text x="159" y="192" fill="#79c0ff">core</text>
-    <text x="222" y="192" fill="#c9d1d9">=</text>
-    <text x="251" y="192" fill="#a5d6ff">"Java 8–21"</text>
-    <text x="414" y="192" fill="#c9d1d9">;</text>
+    <text x="46" y="162">
+      <tspan fill="#8b949e">String </tspan><tspan fill="#79c0ff">core</tspan><tspan fill="#c9d1d9"> = </tspan><tspan fill="#a5d6ff">"Java 8–21"</tspan><tspan fill="#c9d1d9">;</tspan>
+    </text>
 
-    <text x="76" y="242" fill="#8b949e">String[]</text>
-    <text x="183" y="242" fill="#79c0ff">stack</text>
-    <text x="252" y="242" fill="#c9d1d9">= {</text>
-    <text x="304" y="242" fill="#a5d6ff">"Spring Boot"</text>
-    <text x="477" y="242" fill="#c9d1d9">,</text>
-    <text x="504" y="242" fill="#a5d6ff">"SQL Server"</text>
-    <text x="670" y="242" fill="#c9d1d9">};</text>
+    <text x="46" y="202">
+      <tspan fill="#8b949e">String[] </tspan><tspan fill="#79c0ff">stack</tspan><tspan fill="#c9d1d9"> = { </tspan><tspan fill="#a5d6ff">"Spring Boot"</tspan><tspan fill="#c9d1d9">,</tspan>
+    </text>
+    <text x="160" y="234">
+      <tspan fill="#a5d6ff">"SQL Server"</tspan><tspan fill="#c9d1d9"> };</tspan>
+    </text>
 
-    <text x="76" y="292" fill="#8b949e">boolean</text>
-    <text x="173" y="292" fill="#79c0ff">building</text>
-    <text x="282" y="292" fill="#c9d1d9">=</text>
-    <text x="311" y="292" fill="#56d364">true</text>
-    <text x="367" y="292" fill="#c9d1d9">;</text>
-
-    <text x="38" y="334" fill="#c9d1d9">}</text>
-    <rect x="77" y="321" width="12" height="4" rx="2" fill="#39d353"/>
+    <text x="24" y="264" fill="#c9d1d9">}</text>
+    <rect x="52" y="252" width="10" height="3" rx="1.5" fill="#39d353"/>
   </g>
 </svg>

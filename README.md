@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal com apresentação de Amauri Souza Santana" width="100%" />
+  <img src="./assets/terminal-v2.svg" alt="Terminal com apresentação de Amauri Souza Santana" width="100%" />
 </p>
 
 <p align="center">

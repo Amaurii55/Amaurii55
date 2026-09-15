@@ -52,6 +52,24 @@
   <code>JSF</code> · <code>JPA</code> · <code>JDBC</code> · <code>POO</code> · <code>SOLID</code> · <code>Procedures</code> · <code>Triggers</code> · <code>APIs</code>
 </p>
 
+## `> projetos`
+
+<table>
+  <tr>
+    <td width="96" align="center" valign="middle">
+      <a href="https://github.com/Amaurii55/CuidaRitmo">
+        <img src="https://raw.githubusercontent.com/Amaurii55/CuidaRitmo/main/docs/assets/cuidaritmo-icon.png" width="68" height="68" alt="CuidaRitmo" />
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/Amaurii55/CuidaRitmo">CuidaRitmo</a></strong><br/>
+      <sub>Aplicativo Android local-first para organização de rotinas, lembretes e registros de cuidado.</sub><br/><br/>
+      <code>Java 17</code> · <code>Android</code> · <code>Room</code> · <code>MVVM</code> · <code>JUnit</code><br/><br/>
+      <sub>Nasceu de uma necessidade real da minha rotina familiar, inicialmente para ajudar na organização do dia a dia do meu filho autista (TEA). Sem cadastro, anúncios, analytics ou permissão de Internet.</sub>
+    </td>
+  </tr>
+</table>
+
 ## `> lab`
 
 <table>
